@@ -6,4 +6,4 @@ Pablo Medero :smile:
 ***Terminal***
 Nos gusto el tema de terminal porque nos parecio facil de aprender e intuitivo.
 
-/home/usuario/Descargas/index.jpeg
+/home/usuario/Escritorio/MercadoTech/index.jpeg
