@@ -1,5 +1,5 @@
 # MercadoTech
 Tatiana Hernandez Serena :wink:
-Ignacio Matonte
+Ignacio Matonte :hugs:
 Sebastian Vargas
 Pablo Medero
